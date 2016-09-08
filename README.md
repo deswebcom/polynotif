@@ -1,5 +1,3 @@
-# \<polynotifs\>
-
 # polynotifs
 
-this is a simple Polymer Application that send web notifications using the platinum-push-messaging Polymer element.
+This is a simple Polymer Application that subscribes to web notifications using the platinum-push-messaging Polymer element.
